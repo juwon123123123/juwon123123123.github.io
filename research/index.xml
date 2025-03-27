@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on 정보보증 연구실</title>
+    <link>https://juwon123123123.github.io/research/</link>
+    <description>Recent content in Research on 정보보증 연구실</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://juwon123123123.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud</title>
+      <link>https://juwon123123123.github.io/research/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://juwon123123123.github.io/research/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mydata</title>
+      <link>https://juwon123123123.github.io/research/mydata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://juwon123123123.github.io/research/mydata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SBOM</title>
+      <link>https://juwon123123123.github.io/research/sbom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://juwon123123123.github.io/research/sbom/</guid>
+      <description>&lt;p&gt;dkdk&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>중동</title>
+      <link>https://juwon123123123.github.io/research/%EC%A4%91%EB%8F%99/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://juwon123123123.github.io/research/%EC%A4%91%EB%8F%99/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
